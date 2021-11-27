@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/notesoncloud/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/notesoncloud/static/js/main.bfb5de3a.chunk.js",
-    "main.js.map": "/notesoncloud/static/js/main.bfb5de3a.chunk.js.map",
+    "main.js": "/notesoncloud/static/js/main.6859302c.chunk.js",
+    "main.js.map": "/notesoncloud/static/js/main.6859302c.chunk.js.map",
     "runtime-main.js": "/notesoncloud/static/js/runtime-main.4632b51c.js",
     "runtime-main.js.map": "/notesoncloud/static/js/runtime-main.4632b51c.js.map",
     "static/js/2.90025107.chunk.js": "/notesoncloud/static/js/2.90025107.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4632b51c.js",
     "static/js/2.90025107.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.bfb5de3a.chunk.js"
+    "static/js/main.6859302c.chunk.js"
   ]
 }
